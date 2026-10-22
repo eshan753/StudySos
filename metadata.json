@@ -1,0 +1,6 @@
+{
+  "name": "StudySOS Planner",
+  "description": "Smart study-management app for students to record homework, calculate urgency priorities, plan sessions with breaks, and track academic progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
